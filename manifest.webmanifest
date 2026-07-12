@@ -1,0 +1,19 @@
+{
+  "name": "eClassRecord",
+  "short_name": "eClassRecord",
+  "description": "eClassRecord for teachers, works online and offline. Developed by Joram V. Castro.",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0E2A47",
+  "theme_color": "#0E2A47",
+  "lang": "en",
+  "categories": ["education", "productivity"],
+  "icons": [
+    { "src": "./icons/eClassRecord192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/eClassRecord512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/eClassRecord512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
