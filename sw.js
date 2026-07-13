@@ -1,12 +1,12 @@
-const CACHE="ecr-shell-v22";
+const CACHE="ecr-shell-v23";
 const ASSETS=[
   "./",
   "./index.html",
   "./manifest.webmanifest",
-  "./icons/eClassRecord192.png",
-  "./icons/eClassRecord512.png",
-  "./icons/eClassRecord512.png",
-  "./icons/eClassRecord512.png",
+  "./icons/icon-192.png",
+  "./icons/icon-512.png",
+  "./icons/icon-maskable-512.png",
+  "./icons/apple-touch-icon.png",
   "https://www.gstatic.com/firebasejs/10.14.1/firebase-app-compat.js",
   "https://www.gstatic.com/firebasejs/10.14.1/firebase-auth-compat.js",
   "https://www.gstatic.com/firebasejs/10.14.1/firebase-database-compat.js",
