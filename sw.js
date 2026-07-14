@@ -1,4 +1,4 @@
-const CACHE="ecr-shell-v29";
+const CACHE="ecr-shell-v30";
 const ASSETS=[
   "./",
   "./index.html",
